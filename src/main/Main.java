@@ -1,8 +1,9 @@
 package main;
 /**
+ * LabWork1
  *
  * @autor oleg.shved.shvets@gmail.com
- * Main method that running program
+ * @version 1.1
  *
  * */
 

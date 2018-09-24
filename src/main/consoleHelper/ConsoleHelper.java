@@ -1,8 +1,10 @@
 package main.consoleHelper;
 
 /**
+ *
  * @autor oleg.shved.shvets@gmail.com with support from resource https://javarush.ru/
- * ConsoleHelper is help class to IO Stream read from Console with Buffer
+ * Class for simple work with streams of output
+ *
  */
 
 import java.io.BufferedReader;
